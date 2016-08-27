@@ -1,7 +1,5 @@
 # oneofakind
-memorable description are inexistant
-
-collection of Raspberry Notes on domotic
+collection of Raspberry Notes mainly on domotic
 
 RaspberryPi + Razberry + RFXtrx433 USB + Domoticz : Le combo parfait !
 http://www.magdiblog.fr/domotique/raspberrypi-razberry-rfxtrx433usb-domoticz-le-combo-parfait/
